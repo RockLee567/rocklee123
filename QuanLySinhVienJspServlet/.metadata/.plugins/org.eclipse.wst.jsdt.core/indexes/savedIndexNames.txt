@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+D:\Learn_Base_1992022\School\HAU\HAU_Nam3_Ky1_Nhip1\Java_Nhom_11\QuanLySinhVienJspServlet\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+102240032.index
+3161341351.index
+2364106459.index
+1732251062.index

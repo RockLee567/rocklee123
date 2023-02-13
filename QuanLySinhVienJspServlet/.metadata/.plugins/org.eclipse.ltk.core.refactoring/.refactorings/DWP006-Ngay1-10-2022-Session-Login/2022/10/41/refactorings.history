@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;DBContext.java&apos; to &apos;quanlysinhvien/src/dal&apos;&#x0D;&#x0A;- Original project: &apos;DWP006-Ngay1-10-2022-Session-Login&apos;&#x0D;&#x0A;- Destination element: &apos;quanlysinhvien/src/dal&apos;&#x0D;&#x0A;- Original element: &apos;dal.DBContext.java&apos;" description="Copy compilation unit" destination="=quanlysinhvien/src&lt;dal" element1="/src&lt;dal{DBContext.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1664868797457" units="1" version="1.0"/>
+</session>

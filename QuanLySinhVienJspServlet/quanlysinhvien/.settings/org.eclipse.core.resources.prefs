@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//WebContent/form.css=UTF-8
+encoding//src/controller/AccountSV.java=UTF-8
+encoding//src/controller/BangDiemServlet.java=UTF-8
+encoding//src/controller/DeleteGiangVien.java=UTF-8
+encoding//src/controller/DeleteMonHoc.java=UTF-8
+encoding//src/controller/NhapDiem.java=UTF-8
+encoding//src/controller/TimKiemSinhVien.java=UTF-8
+encoding//src/controller/addGiangVien.java=UTF-8
+encoding//src/controller/addLop.java=UTF-8
+encoding//src/controller/addMonHoc.java=UTF-8
+encoding//src/controller/addSinhVienCheck.java=UTF-8
+encoding//src/controller/checkAccount.java=UTF-8
+encoding//src/controller/nhanCheckDiem.java=UTF-8

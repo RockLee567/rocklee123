@@ -1,0 +1,134 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+	overflow-x: hidden;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.heading {
+	font-size: 6.2rem;
+	color: #333;
+	font-weight: 700;
+	border-radius: 5px;
+	border: none;
+}
+
+.text-center {
+	text-align: center !important;
+}
+
+.link {
+	text-decoration: none;
+	color: #333;
+	font-size: 1.6rem;
+}
+
+.d-flex {
+	display: flex;
+	justify-content: center;
+}
+
+.gap-3 {
+	gap: 3rem;
+}
+
+.f-dir-col {
+	flex-direction: column;
+}
+
+.pdt-5 {
+	padding-top: 5rem;
+}
+
+button a {
+	font-size: 1.5rem;
+	color: #fff;
+}
+
+button a:hover {
+	color: #fff;
+}
+/* Navbar */
+.Navbar-Container {
+	padding: 2rem;
+}
+/* Khoa  */
+.khoa-heading-container {
+	padding-top: 5rem;
+	gap: 5rem;
+	flex-direction: column;
+	align-items: center;
+}
+
+button.btn.btn-primary.khoa-button {
+	background-color: #cfed24;
+	border: none;
+	padding: 2rem 3rem;
+}
+
+button.btn.btn-primary.khoa-button a {
+	color: #333;
+	font-size: 2rem;
+}
+/* Chuyen nganh */
+.chuyennganh-button {
+	padding-top: 5rem;
+	display: flex;
+	justify-content: center;
+	gap: 5rem;
+}
+
+.chuyennganh-update {
+	padding-top: 5rem;
+	text-align: center !important;
+	font-size: 1.5rem !important;
+	font-weight: 500 !important;
+}
+
+.chuyennganh-button button {
+	border: none !important;
+	border-radius: 1.1rem;
+}
+
+.chuyennganh-button button h2 a {
+	display: block;
+	padding: 1.3rem 2rem;
+	color: #333;
+	text-decoration: none;
+}
+
+.chuyennganh-button button h2 a:hover {
+	color: #333;
+}
+/* Home */
+.Home-Container {
+	background-image: url(./Image/cover1.jpg); /* The image used */
+	background-color: #cccccc; /* Used if the image is unavailable */
+	height: 100vh; /* You must set a specified height */
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover;
+	/* Resize the background image to cover the entire container */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.Home-Container div {
+	background-color: rgba(255, 255, 255, 1);
+	padding: 15rem 15rem;
+	border-radius: 2rem;
+}
+/* Sinh viên */
+.sinhvien-date {
+	display: flex;
+	gap: 3rem;
+}
